@@ -1,2 +1,6 @@
-# handbook
-Craft Codery Handbook
+# Craft Codery Handbook
+
+## Values
+- **Craftsmanship**
+- **Stewardship**
+- **Trust**
